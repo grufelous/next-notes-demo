@@ -1,0 +1,10 @@
+.custom {
+    margin-left: 3rem;
+    color: teal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.custom:hover {
+    text-decoration: underline;
+}
