@@ -7,4 +7,4 @@ const notes = new Array(15)
 
 module.exports = notes;
 
-// export default notes;
+export default notes;
